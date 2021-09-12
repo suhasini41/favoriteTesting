@@ -1,0 +1,4 @@
+Favorite Testing :
+-------------------------
+	My favorite testing is the Smoke test and Sanity test because once the build passes the smoke and sanity test,
+I get a green signal to go ahead with executing further tests which saves me a lot of time and motivates me to speed up my work.
